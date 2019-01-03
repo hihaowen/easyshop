@@ -1,0 +1,13 @@
+### Mac ###
+.DS_Store
+._.DS_Store
+
+### JetBrains ###
+.idea
+
+### Vim ###
+._*
+*.swp
+
+### Composer ###
+composer.lock

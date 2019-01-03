@@ -1,0 +1,20 @@
+{
+    "require": {
+        "php": ">=5.5.9",
+        "ext-json": "*",
+        "ext-pdo": "*",
+        "illuminate/database": "5.1.*",
+        "illuminate/events": "5.1.*",
+        "ext-redis": "*",
+        "ext-mcrypt": "*",
+        "ext-bcmath": "*",
+        "respect/validation": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Models\\": "app/models"
+        }
+    },
+    "name": "EasyShop",
+    "description": "小商店系统"
+}
